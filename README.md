@@ -1,4 +1,4 @@
-# Official-The-Seven-Seas-Studios.tech
+# aidan-the-swordsman.tech
 ## How to...
  - How to create a page
    - To creat a HTML page, first click the plus icon in the top right of the "repo"
